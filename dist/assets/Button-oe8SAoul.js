@@ -1,1 +1,0 @@
-import{j as r}from"./index--0GCxxO8.js";const n=({className:o,onClick:e,children:t})=>r.jsx("button",{className:`${o} flex items-center gap-2 shadow-lg transition bg-[--MainBlueColor] border-2 border-[--MainBlueColor] hover:bg-white hover:text-[--MainBlueColor] font-semibold text-white px-10 py-2 rounded-full`,onClick:e,children:t});export{n as B};
