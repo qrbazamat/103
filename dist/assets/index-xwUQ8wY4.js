@@ -1,1 +1,0 @@
-import{j as a}from"./index-KYj3JYdo.js";const t="/assets/banner-3-77zYfKAK.jpg",i=({status:n,className:s,duration:e})=>a.jsx("svg",{className:s,viewBox:"0 0 40 40",focusable:"false","aria-hidden":"true",children:a.jsx("circle",{cx:"50%",cy:"50%",r:17,pathLength:1,className:`animation-circle-bar ${n}`,style:{animationDuration:`${e}s`}})});export{i as A,t as B};
