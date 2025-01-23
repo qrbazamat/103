@@ -1,0 +1,1 @@
+import{j as s,a7 as r}from"./index-aiToVYxB.js";const x=({message:e,className:t="w-24 sm:w-32 md:w-40 mx-auto"})=>s.jsxs("div",{className:"py-3",children:[s.jsx("div",{children:s.jsx(r,{className:t})}),s.jsx("h1",{className:"text-center text-[--SecondRedColor] text-sm md:text-base mt-3",children:e})]});export{x as E};
